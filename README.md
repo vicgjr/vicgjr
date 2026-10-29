@@ -12,6 +12,6 @@ feel free to connect or see what i've been listening to lately!
 
 <div align="center">
 
-![Last.fm recently played](https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=hotdad2000&theme=transparent&count=3&width=500&time=0&logo=0&username=0&footer=stats)
+![Last.fm recently played](https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=hotdad2000&theme=transparent&count=5&width=500&time=0&logo=0&username=0&footer=stats)
 
 </div>
